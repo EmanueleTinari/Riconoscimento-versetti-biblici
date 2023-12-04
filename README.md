@@ -33,5 +33,5 @@ versioni bibliche che si trovano nel database dello script stesso.
 <br/>
 
 <H2><i>ad maiorem gloriam Jesu Christo Domino nostro</i></H2>
-<br/> <br/>
+
 Emanuele Tinari</H2>
